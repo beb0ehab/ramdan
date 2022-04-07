@@ -1,46 +1,15 @@
-{
-  "status": "ok",
-  "totalResults": 16,
-  "articles":
-  [
-    {
-      "source": {
-        "id": "rt",
-        "name": "RT"
-      },
-      "author": "RT Arabic",
-      "title": "HelloWorld",
-      "description": "تخلّت شركة مايكروسوفت عن تطبيق Cortana المخصص للهواتف والأجهزة الذكية العاملة بنظامي iOS وأندرويد.",
-      "url": "https://arabic.rt.com/it/1217792-%D9%85%D8%A7%D9%8A%D9%83%D8%B1%D9%88%D8%B3%D9%88%D9%81%D8%AA-%D8%AA%D9%86%D9%87%D9%8A-%D8%A3%D8%AD%D8%AF-%D8%A3%D8%B4%D9%87%D8%B1-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA%D9%87%D8%A7-%D9%84%D9%84%D9%87%D9%88%D8%A7%D8%AA%D9%81-%D8%A7%D9%84%D8%B0%D9%83%D9%8A%D8%A9/",
-      "urlToImage": "https://cdni.rt.com/media/pics/2021.04/original/606706b64c59b710536597ae.png",
-      "publishedAt": "2021-04-02T19:00:00Z",
-      "content": "Cortana iOS .\r\n\" Cortana Android iOS \".\r\n \" 31 2021 Cortana Cortana Microsoft To Do .\r\n \"\" .\r\n Cortana .\r\n: ixbit"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Masrawy.com"
-      },
-      "author": "مصراوي",
-      "title": "الذهب يعوض خسائره ويرتفع في مصر 15 جنيهًا في يومين - مصراوي",
-      "description": "الذهب يعوض خسائره ويرتفع في مصر 15 جنيه ا في يومين | مصراوى",
-      "url": "https://www.masrawy.com/news/news_economy/details/2021/4/2/1998074/الذهب-يعوض-خسائره-ويرتفع-في-مصر-15-جنيه-ا-في-يومين",
-      "urlToImage": "https://media.gemini.media/img/large/2021/4/2/2021_4_2_13_42_42_502.jpg",
-      "publishedAt": "2021-04-02T11:43:00Z",
-      "content": "- :\r\n 15 .\r\n \"\" 21 757 742 .\r\n 18 648.9 24 865.2 6056 .\r\n 13 ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investing.com"
-      },
-      "author": "Investing.com",
-      "title": "أسعار الذهب عالميًا: هل يستطيع الذهب الاختراق؟ بواسطة Investing.com - السعودية Investing.com",
-      "description": "أسعار الذهب عالميًا: هل يستطيع الذهب الاختراق؟",
-      "url": "https://sa.investing.com/news/commodities-news/article-2134243",
-      "urlToImage": "https://i-invdn-com.akamaized.net/news/LYNXMPED180L9_L.jpg",
-      "publishedAt": "2021-04-02T10:32:00Z",
-      "content": ":Fusion Media would like to remind you that the data contained in this website is not necessarily real-time nor accurate. All CFDs (stocks, indexes, futures) and Forex prices are not provided by exch… [+689 chars]"
-    }
-  ]
+{"elmda7":[{
+  "title":"2 المداح",
+  "image":"http://www.bitajarod.com/wp-content/uploads/2022/03/hamada.jpg",
+  "articles":[{"url1":"",
+   "url2":"",
+"url3":"",
+"url4":"",
+"url5":"",
+"url6":"",
+"url7":"",
+"url8":"",
+}],
+}],
+"elmda72":[{"titel":"المداح2"}]
 }
