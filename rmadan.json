@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 20,
+  "totalResults": 16,
   "articles":
   [
     {
@@ -9,7 +9,7 @@
         "name": "RT"
       },
       "author": "RT Arabic",
-      "title": "مايكروسوفت تتخلى عن أحد أشهر تطبيقاتها للهواتف الذكية - RT Arabic",
+      "title": "HelloWorld",
       "description": "تخلّت شركة مايكروسوفت عن تطبيق Cortana المخصص للهواتف والأجهزة الذكية العاملة بنظامي iOS وأندرويد.",
       "url": "https://arabic.rt.com/it/1217792-%D9%85%D8%A7%D9%8A%D9%83%D8%B1%D9%88%D8%B3%D9%88%D9%81%D8%AA-%D8%AA%D9%86%D9%87%D9%8A-%D8%A3%D8%AD%D8%AF-%D8%A3%D8%B4%D9%87%D8%B1-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA%D9%87%D8%A7-%D9%84%D9%84%D9%87%D9%88%D8%A7%D8%AA%D9%81-%D8%A7%D9%84%D8%B0%D9%83%D9%8A%D8%A9/",
       "urlToImage": "https://cdni.rt.com/media/pics/2021.04/original/606706b64c59b710536597ae.png",
