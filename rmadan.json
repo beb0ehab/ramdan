@@ -1,6 +1,5 @@
-{
-    "elmdah":[{
-        "id":1,
+{"series":[{
+    "elmdah2":[{
         "title":"2 المداح",
         "image":"http://www.bitajarod.com/wp-content/uploads/2022/03/hamada.jpg",
         "url":[{
@@ -22,10 +21,10 @@
         }]
         }]
     ,
-    "el2stora":[{
+    "elkber":[{
         "id":2,
-        "title":"2 المداح",
-        "image":"http://www.bitajarod.com/wp-content/uploads/2022/03/hamada.jpg",
+        "title":"الكبير اوي 6",
+        "image":"https://f.prstej.com/uploads/articles/af9f143d.jpg",
         "url":[{
             "url1":"",        
             "url2":"",
@@ -44,4 +43,4 @@
             "s7":"الحلقه 7"
         }]
         }]
-}
+}]}
